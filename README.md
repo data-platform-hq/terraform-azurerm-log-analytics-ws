@@ -41,11 +41,11 @@ No modules.
 
 ## Outputs
 
-| Name | Description |
-|------|-------------|
+| Name                                                                                                                                         | Description                                            |
+|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
 | <a name="output_log_analytics_primary_shared_key"></a> [log\_analytics\_primary\_shared\_key](#output\_log\_analytics\_primary\_shared\_key) | The Primary shared key for the Log Analytics Workspace |
-| <a name="output_log_analytics_workspace_id"></a> [log\_analytics\_workspace\_id](#output\_log\_analytics\_workspace\_id) | The Log Analytics Workspace ID |
-| <a name="name"></a> [log\_analytics\_workspace\_name](#output\_log\_analytics\_workspace\_name) | The Log Analytics Workspace Name |
+| <a name="output_log_analytics_workspace_id"></a> [log\_analytics\_workspace\_id](#output\_log\_analytics\_workspace\_id)                     | The Log Analytics Workspace ID                         |
+| <a name="output_name_to_id_map"></a> [name\_to\_id\_map](#output\_name\_to\_id\_map)                                           | Map of Virtual Network Name to Id                      |
 <!-- END_TF_DOCS -->
 
 ## License
