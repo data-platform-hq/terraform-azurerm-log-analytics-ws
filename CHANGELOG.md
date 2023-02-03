@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/data-platform-hq/terraform-azurerm-log-analytics-ws/compare/v1.1.0...v1.1.1) (2023-02-03)
+
+
+### Bug Fixes
+
+* add output name ([2018045](https://github.com/data-platform-hq/terraform-azurerm-log-analytics-ws/commit/20180457cd0c18070202d193acd34d304afe7083))
+* chenged azure version ([a9ed3ea](https://github.com/data-platform-hq/terraform-azurerm-log-analytics-ws/commit/a9ed3eab6bb2f5323f94f46bde1220389c32f335))
+
 # [1.1.0](https://github.com/data-platform-hq/terraform-azurerm-log-analytics-ws/compare/v1.0.0...v1.1.0) (2022-11-01)
 
 
