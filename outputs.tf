@@ -3,6 +3,11 @@ output "id" {
   description = "The Log Analytics Workspace ID"
 }
 
+output "name" {
+  value       = azurerm_log_analytics_workspace.this.name
+  description = "The Log Analytics Workspace Name"
+}
+
 output "primary_shared_key" {
   value       = azurerm_log_analytics_workspace.this.primary_shared_key
   description = "The Primary shared key for the Log Analytics Workspace"
@@ -13,7 +18,3 @@ output "name_to_id_map" {
   description = "Map of Log Analytics Workspace Name to Id"
 }
 
-output "name" {
-  value       = azurerm_log_analytics_workspace.this.name
-  description = "The Log Analytics Workspace Name"
-}
