@@ -12,3 +12,8 @@ output "name_to_id_map" {
   value       = { (azurerm_log_analytics_workspace.this.name) = azurerm_log_analytics_workspace.this.id }
   description = "Map of Log Analytics Workspace Name to Id"
 }
+
+output "name" {
+  value       = azurerm_log_analytics_workspace.this.name
+  description = "The Log Analytics Workspace Name"
+}
