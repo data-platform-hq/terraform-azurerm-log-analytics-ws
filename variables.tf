@@ -1,4 +1,3 @@
-# Required
 variable "project" {
   type        = string
   description = "Project name"
@@ -25,15 +24,14 @@ variable "tags" {
   default     = {}
 }
 
-# Optional
 variable "retention_in_days" {
   type        = number
-  description = "Specifies the supported Azure location where the resource exists"
+  description = "The workspace data retention in days"
   default     = 30
 }
 
 variable "sku" {
   type        = string
-  description = "Log Analytics Workspace"
+  description = "Log Analytics Workspace sku"
   default     = "PerGB2018"
 }
