@@ -1,5 +1,9 @@
+locals {
+  workspace_name = var.custom_workspace_name == null ? "law-${var.project}-${var.env}-${var.location}" : var.custom_workspace_name
+}
+
 resource "azurerm_log_analytics_workspace" "this" {
-  name                = "law-${var.project}-${var.env}-${var.location}"
+  name                = local.workspace_name
   location            = var.location
   resource_group_name = var.resource_group
   sku                 = var.sku

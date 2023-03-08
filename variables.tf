@@ -18,6 +18,12 @@ variable "location" {
   description = "Specifies the supported Azure location where the resource exists"
 }
 
+variable "custom_workspace_name" {
+  type        = string
+  description = "Specifies the name of the Log Analytics Workspace"
+  default     = null
+}
+
 variable "tags" {
   type        = map(string)
   description = "A mapping of tags to assign to the resource"
