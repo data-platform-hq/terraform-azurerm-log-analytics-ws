@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/data-platform-hq/terraform-azurerm-log-analytics-ws/compare/v1.1.1...v1.2.0) (2023-03-08)
+
+
+### Features
+
+* added custom names for resources ([1c34f4e](https://github.com/data-platform-hq/terraform-azurerm-log-analytics-ws/commit/1c34f4e0b794e0b725c80093d7f2d80dd1e80643))
+
 ## [1.1.1](https://github.com/data-platform-hq/terraform-azurerm-log-analytics-ws/compare/v1.1.0...v1.1.1) (2023-02-03)
 
 
