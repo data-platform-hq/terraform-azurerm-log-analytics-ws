@@ -1,3 +1,16 @@
+# [1.3.0](https://github.com/data-platform-hq/terraform-azurerm-log-analytics-ws/compare/v1.2.0...v1.3.0) (2024-09-13)
+
+
+### Bug Fixes
+
+* added security KICS scan action ([a505515](https://github.com/data-platform-hq/terraform-azurerm-log-analytics-ws/commit/a5055156418ef220f1d2ef3226d5ba402723e34a))
+* replaced pre-commit repo docs creation/update by GH Actions ([dc954d4](https://github.com/data-platform-hq/terraform-azurerm-log-analytics-ws/commit/dc954d4ee59382412b0fb59829fd545afde34fc8))
+
+
+### Features
+
+* upgrade to azurerm v4 ([0604a20](https://github.com/data-platform-hq/terraform-azurerm-log-analytics-ws/commit/0604a201bec064f2ccb51a62e09050efc92b1b25))
+
 # [1.2.0](https://github.com/data-platform-hq/terraform-azurerm-log-analytics-ws/compare/v1.1.1...v1.2.0) (2023-03-08)
 
 
