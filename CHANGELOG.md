@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/data-platform-hq/terraform-azurerm-log-analytics-ws/compare/v1.3.0...v1.4.0) (2024-09-25)
+
+
+### Features
+
+* added workspace id output ([af7a2c2](https://github.com/data-platform-hq/terraform-azurerm-log-analytics-ws/commit/af7a2c24d6061e67740cbb8364bb07dda35d0cc9))
+
 # [1.3.0](https://github.com/data-platform-hq/terraform-azurerm-log-analytics-ws/compare/v1.2.0...v1.3.0) (2024-09-13)
 
 
