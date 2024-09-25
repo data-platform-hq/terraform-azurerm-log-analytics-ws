@@ -44,10 +44,11 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_id"></a> [id](#output\_id) | The Log Analytics Workspace ID |
+| <a name="output_id"></a> [id](#output\_id) | The Log Analytics Resource ID |
 | <a name="output_name"></a> [name](#output\_name) | The Log Analytics Workspace Name |
 | <a name="output_name_to_id_map"></a> [name\_to\_id\_map](#output\_name\_to\_id\_map) | Map of Log Analytics Workspace Name to Id |
 | <a name="output_primary_shared_key"></a> [primary\_shared\_key](#output\_primary\_shared\_key) | The Primary shared key for the Log Analytics Workspace |
+| <a name="output_workspace_id"></a> [workspace\_id](#output\_workspace\_id) | The Log Analytics Workspace ID |
 <!-- END_TF_DOCS -->
 
 ## License
