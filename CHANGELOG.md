@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/data-platform-hq/terraform-azurerm-log-analytics-ws/compare/v1.4.0...v1.5.0) (2026-02-02)
+
+
+### Features
+
+* upgrade provider to AzureRM v4.0 ([09e1720](https://github.com/data-platform-hq/terraform-azurerm-log-analytics-ws/commit/09e1720f78ae13bd2d66cecc8439451fbc362eab))
+
 # [1.4.0](https://github.com/data-platform-hq/terraform-azurerm-log-analytics-ws/compare/v1.3.0...v1.4.0) (2024-09-25)
 
 
